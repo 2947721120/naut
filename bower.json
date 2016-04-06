@@ -1,0 +1,50 @@
+{
+  "name": "Naut",
+  "version": "1.0.0",
+  "authors": [
+    "@geedmo"
+  ],
+  "description": "Bootstrap admin theme + AngularJS",
+  "keywords": [
+    "bootstrap",
+    "angular",
+    "admin",
+    "theme",
+    "dashboard"
+  ],
+  "license": "https://wrapbootstrap.com/help/licenses",
+  "private": true,
+  "dependencies": {
+    "angular-loading-bar": "0.8.0",
+    "angular-translate": "2.8.1",
+    "angular-ui-router": "0.2.15",
+    "angular": "1.4.7",
+    "angular-route": "1.4.7",
+    "angular-bootstrap": "0.14.3",
+    "angular-cookies": "1.4.7",
+    "angular-translate-loader-url": "2.8.1",
+    "angular-translate-loader-static-files": "2.8.1",
+    "angular-translate-storage-local": "2.8.1",
+    "angular-translate-storage-cookie": "2.8.1",
+    "angular-animate": "1.4.7",
+    "angular-ui-utils": "3.0.0",
+    "oclazyload": "1.0.8",
+    "weather-icons": "2.0.10",
+    "ngstorage": "0.3.10",
+    "feather": "colebemis/feather",
+    "animate.css": "3.4.0",
+    "angularjs-toaster": "0.4.16",
+    "font-awesome": "4.4.0",
+    "angular-touch": "1.4.7",
+    "angular-resource": "1.4.7",
+    "angular-sanitize": "1.4.7",
+    "modernizr": "https://modernizr.com/download?backgroundsize-bgpositionshorthand-bgpositionxy-bgrepeatspace_bgrepeatround-bgsizecover-borderradius-cssanimations-csscalc-csstransforms-csstransforms3d-csstransitions-flexboxtweener-fontface-inlinesvg-localstorage-multiplebgs-preserve3d-sessionstorage-smil-svgclippaths-svgfilters-svgforeignobject-todataurljpeg_todataurlpng_todataurlwebp-setclasses&q=background.zip"
+  },
+  "resolutions": {
+    "angular": "1.4.7",
+    "fullcalendar": "2.3.1",
+    "angular-touch": "1.4.7",
+    "angular-translate": "2.8.1",
+    "angular-translate-storage-cookie": "2.8.1"
+  }
+}
